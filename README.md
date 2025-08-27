@@ -1,5 +1,5 @@
 **Supplementary Information**
-
+![image alt](https://github.com/agrocompuepidemlab/Evidence-based-monitoring-of-Prodiplosis/blob/dc3c80e2eba2e4c414ac845537a19b99b4d2da4d/Fig.%20S1.png)
 Fig. S1. Climate characterization of the study area based on synthetic data (historical series) and temperature and relative humidity sensors in greenhouses. 
 
 Fig. S2. Evaluation of the effect of the height and trap color on capturing adults of Prodiplosis longifila. A. Traps installed in the first trial. B. Yellow and white traps for all trials. C. Satellite view of the field, map and location of the traps for spatial dynamics analysis.
